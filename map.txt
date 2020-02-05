@@ -1,0 +1,28 @@
+{
+    "56": {
+        "room_id": 56,
+        "coordinates": "(58,58)",
+        "exits": [
+            "e",
+            "w"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "items": [],
+        "elevation": 0,
+        "terrain": "NORMAL"
+    },
+    "6": {
+        "room_id": 6,
+        "coordinates": "(60,58)",
+        "exits": [
+            "n",
+            "w"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "items": [],
+        "elevation": 0,
+        "terrain": "NORMAL"
+    }
+}
